@@ -1,1 +1,1 @@
-singl!
+Hello my single page!
